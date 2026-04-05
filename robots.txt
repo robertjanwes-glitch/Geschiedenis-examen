@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robertjanwes-glitch.github.io/Geschiedenis-examen/sitemap.xml
